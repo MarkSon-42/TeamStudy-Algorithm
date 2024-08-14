@@ -57,19 +57,19 @@
     <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>👑
  손민우</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/
-aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+chcccccc"><img src="https://avatars.githubusercontent.com/u/105705840?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 김채연</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/mirea70"><img src="https://avatars.githubusercontent.com/u/101246806?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/Potatose"><img src="https://avatars.githubusercontent.com/u/89388271?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 오세은</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/daheepk"><img src="https://avatars.githubusercontent.com/u/172958486?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/dao-official"><img src="https://avatars.githubusercontent.com/u/175321478?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 유다훈</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/yeongjinjeong"><img src="https://avatars.githubusercontent.com/u/134537573?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/byungkyu2"><img src="https://avatars.githubusercontent.com/u/159244912?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 이병규</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Beomsususu"><img src="https://avatars.githubusercontent.com/u/175918186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/LazuliJ"><img src="https://avatars.githubusercontent.com/u/88023413?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 이현정</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Beomsususu"><img src="https://avatars.githubusercontent.com/u/175918186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/shHan96"><img src="https://avatars.githubusercontent.com/u/58022564?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 한상훈</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Beomsususu"><img src="https://avatars.githubusercontent.com/u/175918186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/YoujinHwang"><img src="https://avatars.githubusercontent.com/u/80201454?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 황유진</b></sub></a><br /></td>
   </tr>
 </table>
