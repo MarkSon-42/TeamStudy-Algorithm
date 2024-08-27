@@ -19,7 +19,7 @@
 
 -  매주 화, 목 저녁 1회 (19:00~21:30) 서울 역삼 캠퍼스 인근 스터디룸에서 대면 스터디
 
--  최대 8명의 멤버를 모집합니다. 
+-  최대 8명의 인원으로 운영합니다. 
 
 -  삼성SW역량테스트 기준 A형부터 시작해서..B형 유형까지 계속해서 SW역량테스트 문제를 풀이합니다
 
@@ -75,13 +75,14 @@ chcccccc"><img src="https://avatars.githubusercontent.com/u/105705840?v=4?s=100"
 
 ## 4.💎 Rules  
 
-- 공가 및 사유결석은 SSAFY 내규를 동일하게 적용합니다.
-- 원칙적으로 불참은 허용하지 않으며, 도의적으로 정말 불가피한 사정이 있을시 운영자에게 먼저 문의부탁드립니다.
+- 원칙적으로 불참은 허용하지 않으며, 도의적으로 불가피한 사정이 있을시 운영자에게 먼저 문의부탁드립니다.
 
 
 ## 5. Reference  
 
 - 삼성 SW 역량 테스트 기출 문제 : https://www.acmicpc.net/workbook/view/1152
+
+- 코드트리 삼성 SW역량테스트 기출 문제 : https://www.codetree.ai/training-field/frequent-problems/company/samsung/problems
 
 
 
