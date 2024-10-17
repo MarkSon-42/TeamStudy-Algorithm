@@ -45,10 +45,24 @@ chcccccc"><img src="https://avatars.githubusercontent.com/u/105705840?v=4?s=100"
 이병규</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/LazuliJ"><img src="https://avatars.githubusercontent.com/u/88023413?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 이현정</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/shHan96"><img src="https://avatars.githubusercontent.com/u/58022564?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-한상훈</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/YoujinHwang"><img src="https://avatars.githubusercontent.com/u/80201454?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-황유진</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/LazuliJ"><img src="https://avatars.githubusercontent.com/u/88023413?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+임창현</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/LazuliJ"><img src="https://avatars.githubusercontent.com/u/88023413?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+임현주</b></sub></a><br /></td>
+    
+  </tr>
+</table>
+
+
+---
+
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/shHan96"><img src="https://avatars.githubusercontent.com/u/58022564?v=4?s=100" width="80px;" alt=""/><br /><sub><b>
+한상훈(Graduated)</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/YoujinHwang"><img src="https://avatars.githubusercontent.com/u/80201454?v=4?s=100" width="80px;" alt=""/><br /><sub><b>
+황유진(Graduated)</b></sub></a><br /></td>
   </tr>
 </table>
 
@@ -65,11 +79,11 @@ chcccccc"><img src="https://avatars.githubusercontent.com/u/105705840?v=4?s=100"
 | Week 3  | 백준 삼성역량A형기출문제 (3)    | A형 문제집 part. C     | ✅         |
 | Week 4  | 백준 삼성역량A형기출문제 (4)    | A형 문제집 part. D     | ✅         |
 | Week 5  | 백준 삼성역량A형기출문제 (5)    | A형 문제집 part. E     | ✅         |
-| Week 6  | 백준 삼성역량A형기출문제 (6)    | A형 문제집 part. F     | 📅         |
-| Week 7  | 백준 삼성역량A형기출문제 (7)    | A형 문제집 part. G     | 📅         |
-| Week 8  | 백준 삼성역량B형기출문제 (8)    | B형 문제집 part. H     | 📅         |
-| Week 9  | 백준 삼성역량B형기출문제 (9)    | B형 문제집 part. I     | 📅         |
-| Week 10 | 백준 삼성역량B형기출문제 (10)   | B형 문제집 part. J     | 📅         |
+| Week 6  | 백준 삼성역량A형기출문제 (6)    | A형 문제집 part. F     | ✅         |
+| Week 7  | 백준 삼성역량A형기출문제 (7)    | A형 문제집 part. G     | ✅         |
+| Week 8  | 백준 삼성역량B형기출문제 (8)    | B형 문제집 part. H     | ✅         |
+| Week 9  | 백준 삼성역량B형기출문제 (9)    | B형 문제집 part. I     | ✅         |
+| Week 10 | 백준 삼성역량B형기출문제 (10)   | B형 문제집 part. J     | ✅         |
 | Week 11 | 백준 삼성역량B형기출문제 (11)   | B형 문제집 part. K     | 📅         |
 | Week 12 | 백준 삼성역량B형기출문제 (12)   | B형 문제집 part. L     | 📅         |
 
